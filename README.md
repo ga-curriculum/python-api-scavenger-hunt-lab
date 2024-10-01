@@ -1,50 +1,30 @@
 <h1>
   <span class="prefix"></span>
-  <span class="headline">[tktk Module Name]</span>
+  <span class="headline">Python API Scavenger Hunt Lab</span>
 </h1>
 
 ## About
 
-tktk Write a short but descriptive summary of the content in this module. Introduce the lab. What will the students build in this lab?
+APIs unlock a vast world of data for our Python programs. In this lab, you'll explore various APIs from the public-apis project to see what information you can access and how to navigate different types of documentation. Be prepared to write some additional code as you interact with these APIs and handle their responses.
 
 ## Content
 
 - [Setup](./setup/README.md)
 - [Exercise](./exercise/README.md)
 
-## Level Up
-
-tktk If there is no Level Up content for this lab, then this section and all of its content should be removed.
-
-🚀 [Level Up](./level-up/README.md)
-
 ## Internal
 
 ### Prerequisites
 
-- tktk
+- Python: Requesting Data from APIs
 
 ### Time to complete
 
-Estimated time to complete core lab exercise: **tktk min**
-
-### Starter code
-
-tktk If there is not a starter code repo that students will fork and clone to start this lab, then this section and all of its content should be removed.
-
-🟢 [Starter code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
+Estimated time to complete core lab exercise: **30 min**
 
 ### Solution code
 
-🏁 [tktk Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
-
-### Deployed sites
-
-tktk If there is not a deployed site related to this module this section and all of its content should be removed.
-
-🌐 [Live site](https://generalassemb.ly/tktk)
-
-🐙 [Repository](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
+🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
 
 ### Resources
 

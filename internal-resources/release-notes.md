@@ -1,11 +1,11 @@
 <h1>
-  <span class="headline">[tktk Module Name]</span>
+  <span class="headline">Python API Scavenger Hunt Lab</span>
   <span class="subhead">Release Notes</span>
 </h1>
 
 ## Version 1.0 - Updates from legacy content
 
-This release modularizes the legacy [tktk previous lab name] lab and provides some other minor updates detailed below.
+This release modularizes the legacy `API Scavenger Hunt Lab` lab.
 
 ### Release details
 
