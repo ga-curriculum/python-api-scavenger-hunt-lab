@@ -24,7 +24,7 @@ Estimated time to complete core lab exercise: **30 min**
 
 ### Solution code
 
-🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
+🏁 No Solution Code Provided - Student answers will vary based on API's used.
 
 ### Resources
 
