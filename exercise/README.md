@@ -60,7 +60,7 @@ else:
 
 ## 4. Handle API Responses:
 
-- Examine the structure of the API response (e.g., JSON, XML).
+- Examine the structure of the API response (ex: JSON, XML).
 - Use Python to parse the response and extract the data needed.
 - Handle exceptions and errors gracefully.
 
