@@ -5,10 +5,10 @@
 
 ## Setup
 
-Open your Terminal application and navigate to your **`~/development/labs`** directory:
+Open your Terminal application and navigate to your **`~/labs`** directory:
 
 ```bash
-cd ~/development/labs
+cd ~/labs
 ```
 
 Make a new directory called **`python-api-scavenger-hunt-lab`**, then enter this directory:
