@@ -20,7 +20,7 @@ APIs unlock a vast world of data for our Python programs. In this lab, you'll ex
 
 ### Time to complete
 
-Estimated time to complete core lab exercise: **30 min**
+Estimated time to complete core lab exercise: **60 min**
 
 ### Solution code
 
